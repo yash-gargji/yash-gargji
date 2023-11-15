@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Yash Garg  a competitive coder with a passion for problem-solving and algorithmic challenges. I have a solid foundation in C++ and C programming languages, as well as a decent knowledge of HTML and CSS for web development.
+👋 Hi there! I'm Yash Garg  a competitive coder with a passion for problem-solving and algorithmic challenges. I have a solid foundation in C,C++ and Java programming languages, as well as a decent knowledge of HTML and CSS for web development.
 
 
 ## 🌐 Socials:
